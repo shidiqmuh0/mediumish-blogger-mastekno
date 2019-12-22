@@ -6,7 +6,7 @@ Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarn
 <br/>
   <img src="https://4.bp.blogspot.com/-Z9thiRBk5U0/Xf9CkKzp57I/AAAAAAAACjQ/NjMp2Un-NzcN2UvInN4l2998iyOdHdvUACLcBGAsYHQ/s1600/demo-mediumish2.jpg"/>
 <br/>
-  <center><span style="font-size=15px"><a href="https://mediumish-blogger.blogspot.com/">DEMO TEMPLATE</a></span></center>  
+  <center><span style="font-size=25px;text-align: center"><a href="https://mediumish-blogger.blogspot.com/">DEMO TEMPLATE</a></span> - <span style="font-size=15px"><a href="https://www.dropbox.com/s/zxs52pnyls4kjxx/%5BMasTekno%5D%20Mediumish-Blogger.xml?dl=0">DOWNLOAD</a></span></center>  
 
 </p>
 <h3>Fitur Mediumish Blogger</h3>
