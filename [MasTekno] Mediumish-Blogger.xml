@@ -781,7 +781,7 @@ head.insertBefore(script, head.firstChild);
             <data:blog.title/>
           </a>.</p>
         <p class='pull-right'>
-          Template By: <b:if cond='data:view.isHomepage'><a href='https://www.mastekno.com/' id='mmt'>MasTekno.com</a>.<b:else/>MasTekno.com.</b:if>
+          Template By: <b:if cond='data:view.isHomepage'><a href='https://www.mastekno.com/' id='mmt' rel='external' title='MasTekno.com'>MasTekno.com</a>.<b:else/>MasTekno.com.</b:if>
         </p>
         <div class='clearfix'/>
         <a class='back-to-top' href='#top'> <i class='fa fa-angle-up'/> </a> 
@@ -790,14 +790,15 @@ head.insertBefore(script, head.firstChild);
 
 <b:if cond='data:view.isHomepage'>
   <script>
-  //<![CDATA[
-  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-template-medium/master/mainjs2.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
+    //<![CDATA[
+  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-template-medium/master/Jquery-Main.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
 //]]>
   </script>
+  <script src='https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-mastekno/master/home-mainjs.js'/>
 <b:else/>
   <script>
     //<![CDATA[
-  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-template-medium/master/mainjs.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
+  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-template-medium/master/Jquery-Main.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
 //]]>
 </script>
  </b:if>
