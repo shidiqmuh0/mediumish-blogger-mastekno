@@ -2,11 +2,12 @@
 <p>Merupakan template blogger gratis seo friendly. Sangat cocok untuk publisher iklan, seperti google adsense, dan media iklan lainya.<br/>
 Dibuat secara gratis, dan banyak website (khususnya wordpress) ternama menggunaan template ini.<br/>
 Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarnya. Namun versi wordpressnya yang merupakan rilisan resmi sangat mahal, tapi di sini bisa kalian gunakan. Jika anda pengguna blogger, dapat memasangnya sebagai template untuk blog utama.<br/>
+    <center><H2><a href="https://mediumish-blogger.blogspot.com/">DEMO TEMPLATE</a></span> - <span style="font-size=15px"><a href="https://www.dropbox.com/s/zxs52pnyls4kjxx/%5BMasTekno%5D%20Mediumish-Blogger.xml?dl=0">DOWNLOAD</a></H2></center>  
+<br/>
 <img src="https://4.bp.blogspot.com/-s5B4OYSr0f8/Xf9CkWFmYBI/AAAAAAAACjU/QNPBb5iqImYMr_HNRoZvyBeA96SO792ZwCLcBGAsYHQ/s1600/demo-mediumish.jpg"/>
 <br/>
   <img src="https://4.bp.blogspot.com/-Z9thiRBk5U0/Xf9CkKzp57I/AAAAAAAACjQ/NjMp2Un-NzcN2UvInN4l2998iyOdHdvUACLcBGAsYHQ/s1600/demo-mediumish2.jpg"/>
 <br/>
-  <center><H2><a href="https://mediumish-blogger.blogspot.com/">DEMO TEMPLATE</a></span> - <span style="font-size=15px"><a href="https://www.dropbox.com/s/zxs52pnyls4kjxx/%5BMasTekno%5D%20Mediumish-Blogger.xml?dl=0">DOWNLOAD</a></H2></center>  
 
 </p>
 <h3>Fitur Mediumish Blogger</h3>
