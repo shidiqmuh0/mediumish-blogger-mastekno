@@ -13906,7 +13906,7 @@ ul.post-categories li a:hover {
   border-color: #1C9963;
   color: rgba(255, 255, 255, 1);
   fill: rgba(255, 255, 255, 1);
-  border-radius: 30px;
+  border-radius: 8px;
   font-size: 0.9rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -14505,6 +14505,7 @@ img.fullimage {
   .btn-simple {
     margin-top: 1rem;
     padding: 5px 10px;
+    border-radius: 8px;
   }
   .navbar-collapse {
     padding-top: 20px;
