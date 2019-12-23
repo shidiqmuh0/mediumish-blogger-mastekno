@@ -71,7 +71,7 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
 Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <strong>style="display:none"</strong> pada html kode gambar utama (hanya gambar utama) di urutan nomer 1.
  
  <br/><br/>
- <strong>LICENSE</strong: Bebas Disebarkan, dimodifikasi dan digunakan secara gratis.<br/>
+ <strong>LICENSE</strong>: Bebas Disebarkan, dimodifikasi dan digunakan secara gratis.<br/>
     <strong>INFO</strong>: Ini hanya terinspirasi desain medium & mediumish, tidak mengambil dari source code mereka. Desain dasar disesuaikan, jadi tidak melanggar hak cipta.<br/>
 Selengkapnya di : https://www.mastekno.com/id/mediumish-blogger.<br/>
 Credit : https://www.mastekno.com<br/>
