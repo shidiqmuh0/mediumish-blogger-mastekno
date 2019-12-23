@@ -1,4 +1,4 @@
-<h2>Template Mediumish Blogger Gratis: SEO, Fast Loading, Powerful</h2>
+<h2>Template Mediumku Blogger Gratis: SEO, Fast Loading, Powerful</h2>
 <p>Merupakan template blogger gratis seo friendly. Sangat cocok untuk publisher iklan, seperti google adsense, dan media iklan lainya.<br/>
 Dibuat secara gratis, dan banyak website (khususnya wordpress) ternama menggunaan template ini.<br/>
 Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarnya. Namun versi wordpressnya yang merupakan rilisan resmi sangat mahal, tapi di sini bisa kalian gunakan. Jika anda pengguna blogger, dapat memasangnya sebagai template untuk blog utama.<br/>
@@ -10,7 +10,7 @@ Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarn
 <br/>
 
 </p>
-<h3>Fitur Mediumish Blogger</h3>
+<h3>Fitur Mediumku Blogger</h3>
 <table cellpadding="0" cellspacing="0" style="text-align: left;"><tbody>
 <tr>             <th>Features</th>             <th>Availability</th>         </tr>
 <tr>             <td>Responsive</td>             <td>True</td>         </tr>
@@ -33,7 +33,7 @@ Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarn
 <h3>Penjabaran Lanjutan</h3>
 <p>Selain responsive, dan seo. Template ini juga sangat sederhana, karena memang bertujuan untuk kecepatan loading.</p>
 
-<h3>Kelebihan Mediumish Blogger by MasTekno</h3>
+<h3>Kelebihan Mediumku Blogger by MasTekno</h3>
 <ul>
   <li>SEO: Didukung dengan struktur kode yang optimal, merupakan optimasi seo onpage yang sangat pas dan saya terapkan di blog MasTekno.com</li>
   <li>Fast Loading: Terbukti kecepatannya, karena menggunakan lazy load + kode yang sangat minimalis dan sudah di kompress.</li>
@@ -49,7 +49,7 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   <li>Langkah pertama, download template yang sudah ada.</li>
   <li>Buka blogger.com > klik Template.</li>
   <li>Lalu klik > Pulihkan > Upload > Pilih template <strong>[MasTekno] Mediumish-Blogger.xml</strong></li>
-  <li>Tunggu sampai selesai...</li>
+  <li>Tunggu sampai selesai.</li>
 </ol>
 <br/>
 <h2>Cara Ganti Warna Template</h2>
@@ -70,7 +70,9 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
  <h2>Posting Artikel</h2>
 Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <strong>style="display:none"</strong> pada html kode gambar utama (hanya gambar utama) di urutan nomer 1.
  
- <br/>
+ <br/><br/>
+ <strong>LICENSE</strong: Bebas Disebarkan, dimodifikasi dan digunakan secara gratis.<br/>
+    <strong>INFO</strong>: Ini hanya terinspirasi desain medium & mediumish, tidak mengambil dari source code mereka. Desain dasar disesuaikan, jadi tidak melanggar hak cipta.<br/>
 Selengkapnya di : https://www.mastekno.com/id/mediumish-blogger.<br/>
 Credit : https://www.mastekno.com<br/>
 😄 Sekian tutorial dari saya, semoga bermanfaat.
