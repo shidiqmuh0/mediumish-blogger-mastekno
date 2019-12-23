@@ -789,16 +789,16 @@ head.insertBefore(script, head.firstChild);
     </div>
 
 <b:if cond='data:view.isHomepage'>
-  <script>
+<script>
   //<![CDATA[
-  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-jquery.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
+  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-jquerys.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
 //]]>
   </script>
   <script src='https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-homes.js'/>
 <b:else/>
   <script>
     //<![CDATA[
-  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-jquery.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
+  var scripts = ["https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/master/main-jquerys.js","https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"];
 //]]>
 </script>
  </b:if>
