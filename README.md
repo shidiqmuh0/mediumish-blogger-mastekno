@@ -39,7 +39,7 @@ Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarn
   <li>Fast Loading: Terbukti kecepatannya, karena menggunakan lazy load + kode yang sangat minimalis dan sudah di kompress.</li>
   <li>Iklan Mudah: Pemasangan iklan sekarang mudah, hanya dengan memasang kode iklan di tata letak, iklan bisa tayang di tengah artikel dan sudah di optimasi.</li>
   <li>HIGH CTR: Bagi kalian pengguna cpc, maka sangat cocok. Karena template mediumish blogger bisa meninggkatkan CTR iklan karena sudah di optimasi</li>
-  <li>Dan kelebihan lainya....</li>
+  <li>Dan kelebihan lainya.</li>
 </ul>
 
 
@@ -73,6 +73,8 @@ Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <s
  <br/><br/>
  <strong>LICENSE</strong>: Bebas Disebarkan, dimodifikasi dan digunakan secara gratis.<br/>
     <strong>INFO</strong>: Ini hanya terinspirasi desain medium & mediumish, tidak mengambil dari source code mereka. Desain dasar disesuaikan, jadi tidak melanggar hak cipta.<br/>
+    <strong>LARANGAN</strong>: Dilarang menghapus, mengubah credit link &amp; dilarang menjual belikan template ini.<br/><br/>
+    
 Selengkapnya di : https://www.mastekno.com/id/mediumish-blogger.<br/>
 Credit : https://www.mastekno.com<br/>
 😄 Sekian tutorial dari saya, semoga bermanfaat.
