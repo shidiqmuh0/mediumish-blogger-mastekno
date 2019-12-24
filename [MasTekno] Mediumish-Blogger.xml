@@ -109,7 +109,7 @@
         ul,ol,li{display:none}
       ]]></b:skin>
     </b:if>
-<link href='https://cdn.statically.io/gh/mastekno-com/mediumish-template-medium/master/mediumish-green.css' rel='stylesheet'/>
+<link href='https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-mastekno/master/mediumish-green.css' rel='stylesheet'/>
     <style>
       html {
       -webkit-animation: fadein 1s;
@@ -204,9 +204,7 @@ head.insertBefore(script, head.firstChild);
 })();
 //]]>
 </script>
-    &lt;!--
-  </head>
-  --&gt;&lt;/head&gt;
+  &lt;!--</head>--&gt;&lt;/head&gt;
   <body itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WebPageElement'>
     <b:class cond='data:view.isPage' name='page-template-default page'/>
     <b:class cond='data:view.isPost' name='post-template-default single single-format-standard'/>
@@ -219,9 +217,9 @@ head.insertBefore(script, head.firstChild);
         <div class='row justify-content-center align-items-center brandrow'>
           <div class='col-lg-4 col-md-4 hidden-xs-down customarea'>
 <!-- Sesuaikan Menu Profil -->
-            <a class='btn follow' href='https://www.blogger.com/follow.g?view=FOLLOW&amp;blogID=ID-BLOGMU' target='blank'><i class='fa fa-user'/> Follow</a>
-            <a href='#' target='_blank'> <i class='fa fa-facebook social'/></a>
-            <a href='#' target='_blank'> <i class='fa fa-instagram social'/></a>
+            <a class='btn follow' href='https://www.blogger.com/follow.g?view=FOLLOW&amp;blogID=ID-BLOGMU' rel="nofollow" target='blank'><i class='fa fa-user'/> Follow</a>
+            <a href='#' target='_blank' rel="nofollow"> <i class='fa fa-facebook social'/></a>
+            <a href='#' target='_blank' rel="nofollow"> <i class='fa fa-instagram social'/></a>
           </div>
           &lt;!--
           <b:section id='Header' showaddelement='no'>
