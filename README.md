@@ -72,8 +72,9 @@ Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <s
  
  <br/><br/>
  <strong>LICENSE</strong>: Bebas Disebarkan, dimodifikasi dan digunakan secara gratis.<br/>
-    <strong>INFO</strong>: Ini hanya terinspirasi desain medium & mediumish, tidak mengambil dari source code mereka. Desain dasar disesuaikan, jadi tidak melanggar hak cipta.<br/>
-    <strong>LARANGAN</strong>: Dilarang menghapus, mengubah credit link &amp; dilarang menjual belikan template ini.<br/><br/>
+    <strong>INFO</strong>: License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html.<br/>
+    <strong>LARANGAN</strong>: Dilarang menjual belikan template ini.<br/><br/>
     
 Selengkapnya di : https://www.mastekno.com/id/mediumish-blogger.<br/>
 Credit : https://www.mastekno.com<br/>
