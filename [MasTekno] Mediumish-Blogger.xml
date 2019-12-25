@@ -779,7 +779,7 @@ head.insertBefore(script, head.firstChild);
             <data:blog.title/>
           </a>.</p>
         <p class='pull-right'>
-          Template By: <b:if cond='data:view.isHomepage'><a href='https://www.mastekno.com/' id='mastekno' title='MasTekno.com'>MasTekno.com</a>.<b:else/>MasTekno.com.</b:if>
+          Template By: <b:if cond='data:view.isHomepage'><a href='https://www.mastekno.com/' id='mastekno' rel='nofollow external' title='MasTekno.com'>MasTekno.com</a>.<b:else/>MasTekno.com.</b:if>
         </p>
         <div class='clearfix'/>
         <a class='back-to-top' href='#top'> <i class='fa fa-angle-up'/> </a> 
