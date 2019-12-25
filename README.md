@@ -76,6 +76,7 @@ Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <s
 License URI: http://www.gnu.org/licenses/gpl-3.0.html.<br/>
     <strong>LARANGAN</strong>: Dilarang menjual belikan template ini.<br/><br/>
     
+    
 Selengkapnya di : https://www.mastekno.com/id/mediumish-blogger.<br/>
 Credit : https://www.mastekno.com<br/>
 😄 Sekian tutorial dari saya, semoga bermanfaat.
