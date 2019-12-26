@@ -68,8 +68,10 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   </ul>
  <br/>
  <h2>Posting Artikel</h2>
-Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <strong>style="display:none"</strong> pada html kode gambar utama (hanya gambar utama) di urutan nomer 1.
- 
+Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <strong>style="display:none"</strong> pada html kode gambar utama (hanya gambar utama) di urutan nomer 1.<br/>
+</h3>Base on<h3>
+<ul><li>Mediumish - Free Bootstrap 4.0 HTML Template Medium Styled</li>
+    <li>https://www.wowthemes.net/mediumish-free-bootstrap-4-0-html-template-medium-styled/</li></ul>
  <br/><br/>
  <strong>LICENSE</strong>: Bebas Disebarkan, dimodifikasi dan digunakan secara gratis.<br/>
     <strong>INFO</strong>: License: GNU General Public License v3 or later
