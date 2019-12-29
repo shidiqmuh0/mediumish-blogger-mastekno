@@ -12867,7 +12867,7 @@ a.text-gray-dark:hover {
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 700;
-  src: local('PT Sans Bold'), local('PTSans-Bold'), url(//cdn.statically.io/gh/masihterjaga/fonts/5cc7edb2/Mediumish1.woff) format('woff');
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url(//cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/653cb13e/Mediumish2.woff) format('woff');
 }
 
 @font-face {
@@ -12875,13 +12875,22 @@ a.text-gray-dark:hover {
   font-family: 'Merriweather';
   font-style: normal;
   font-weight: 700;
-  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(//cdn.statically.io/gh/masihterjaga/fonts/5cc7edb2/Mediumish2.woff) format('woff');
+  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(//cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/653cb13e/Mediumish2.woff) format('woff');
 }
 
 .clear,
 .clearfix {
   clear: both
 }
+
+
+/*
+Theme Name: Mediumish
+Version: 1.0.37
+Author: WowThemesNet
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
 
 body {
   overflow-x: hidden;
@@ -14775,7 +14784,7 @@ h6 {
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 700;
-  src: local('PT Sans Bold'), local('PTSans-Bold'), url(https://cdn.statically.io/gh/masihterjaga/fonts/5cc7edb2/Mediumish1.woff) format('woff');
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url(https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/653cb13e/Mediumish1.woff) format('woff');
 }
 
 @font-face {
@@ -14783,7 +14792,7 @@ h6 {
   font-family: 'Merriweather';
   font-style: normal;
   font-weight: 700;
-  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(https://cdn.statically.io/gh/masihterjaga/fonts/5cc7edb2/Mediumish2.woff) format('woff');
+  src: local('Merriweather Bold'), local('Merriweather-Bold'), url(https://cdn.statically.io/gh/mastekno-com/mediumish-blogger-assets/653cb13e/Mediumish2.woff) format('woff');
 }
 
 body {
