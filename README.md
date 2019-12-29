@@ -69,7 +69,7 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
  <br/>
  <h2>Posting Artikel</h2>
 Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <strong>style="display:none"</strong> pada html kode gambar utama (hanya gambar utama) di urutan nomer 1.<br/>
-</h3>Base on<h3>
+<h3>Base on</h3>
 <ul><li>Mediumish - Free Bootstrap 4.0 HTML Template Medium Styled</li>
     <li>https://www.wowthemes.net/mediumish-free-bootstrap-4-0-html-template-medium-styled/</li></ul>
  <br/><br/>
