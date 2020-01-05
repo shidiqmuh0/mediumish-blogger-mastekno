@@ -773,11 +773,12 @@ head.insertBefore(script, head.firstChild);
     <div class='container'>
       <footer class='footer' itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WPFooter'>
         <p class='pull-left'>
-			<a href='#' title='Tentang Kami'>Tentang Kmai</a> &#8226; <a href='#' title='Menu 2'>Kontak</a> &#8226; <a href='#' title='Menu 3'>Disclaimer</a> &#8226; <a href='#' title='Menu 4'>Privacy Policy</a><br/>
+			<a href='#' title='Tentang Kami'>Tentang Kami</a> &#8226; <a href='#' title='Menu 2'>Kontak</a> &#8226; <a href='#' title='Menu 3'>Disclaimer</a> &#8226; <a href='#' title='Menu 4'>Privacy Policy</a><br/>
         &#169; Copyright 2019 
           <a class='notranslate' expr:href='data:blog.canonicalHomepageUrl' expr:title='data:blog.title'>
             <data:blog.title/>
           </a>.</p>
+	<!--DIHARAPKAN TIDAK MENGHAPUS CREDIT LINK-->
         <p class='pull-right'>
           Template By: <b:if cond='data:view.isHomepage'><a href='https://www.mastekno.com/' id='mastekno' rel='nofollow external' title='MasTekno.com'>MasTekno.com</a>.<b:else/>MasTekno.com.</b:if>
         </p>
